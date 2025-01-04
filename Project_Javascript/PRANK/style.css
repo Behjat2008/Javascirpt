@@ -1,0 +1,35 @@
+body {
+    background-color: lightskyblue;
+}
+.window {
+    border: 2px solid black;
+    height: 150px;
+    width: 250px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30%;
+    padding: 50px;
+    background-color: lightgray;
+}
+button {
+    width: 100px;
+    margin-top: 50px;
+    font-size: 35px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 5px black;
+}
+#b2 {
+    margin-left: 40px;
+    color: red;
+}
+#b1 {
+    color: green;
+}
+#b1:hover {
+    background-color: lightgreen;
+}
+#b2:hover {
+    background-color: lightcoral;
+}
